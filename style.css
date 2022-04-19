@@ -191,7 +191,7 @@ margin-left: 70px;
 
     }
 .blog{
-    background-color:rgb(208, 234, 234); 
+    background-color:rgb(221, 243, 243); 
     padding: 90px;
     width: 600px;
     height: 150px;
@@ -231,7 +231,7 @@ margin-left: 70px;
 }
 .all-last{
 display: inline-flex;
-background-color: rgb(230, 242, 242);
+background-color: rgb(248, 255, 255);
 margin: -20px;
 
 }
