@@ -146,6 +146,7 @@ margin-bottom: -75px;
  
  .all-quotations i2{
 color: rgb(176, 223, 218);
+
  }
  .all-quotations i{
      color:rgb(225, 212, 93)
@@ -238,5 +239,7 @@ margin: -20px;
 .all-last h5{
 margin: 5px;
 }
+.small{
+    display: inline-flex;
+}
 
- 
