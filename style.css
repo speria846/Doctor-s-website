@@ -1,0 +1,242 @@
+.nav h5{
+    font-family:sans-serif;
+}
+h5{
+    margin-left: 60px;
+}
+.family{
+    margin-left: 700px;
+}
+.nav{
+    display: inline-flex;
+}
+.clinic{
+    margin-left:60px ;
+    color: rgb(250, 10, 10);
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.part1{
+    margin-left: 60px;
+    font-family: sans-serif;
+   
+
+}
+.part1 p{
+font-size: 18px;
+}
+.part1 button{
+    background-color:rgb(42, 115, 149);
+    color: white;
+    border-radius: 10px;
+    padding: 18px;
+}
+.part1 i{
+    background-color: rgb(217, 217, 236);
+    border-radius: 90px;
+    margin-right: 50%;
+    padding: 18px;
+    margin-left: 20px;
+
+}
+.image1 img{
+margin-left: 45%;
+    border-width: none;
+    margin-top: -24%;
+   border:solid rgba(192, 231, 239, 0.791) 76px;
+    border-radius: 49%;
+
+}
+.all{
+    background-color: rgb(235, 250, 250);
+    margin: 30px;
+    border-radius: 5%;
+}
+.word{
+    margin-left: 60px;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.word2{
+margin-left: 55%;
+margin-bottom: -95px;
+}
+.icon1 {
+    padding: 30px;
+    margin: 70px;
+    background-color: azure;
+}
+.icon2{
+    padding: 30px;
+    margin: 70px;
+    background-color: azure;
+}
+.icon3{
+    padding: 30px;
+    margin: 70px;
+    background-color: azure;
+}
+ .all-icons{
+     display: inline-flex;
+ }
+ .icon4{
+    padding: 30px;
+    margin: 70px;
+    background-color: azure;  
+ }
+ .icon5{
+    padding: 30px;
+    margin: 70px;
+    background-color: azure;
+ }
+ .icon6{
+    padding: 30px;
+    margin: 70px;
+    background-color: azure;
+ }
+ .allicons{
+    display: inline-flex;    
+ }
+ .lady{
+   
+    padding: 20px;
+    height: 420px;
+    width: 480px;
+    margin: 4%;
+    border-radius: 20px;
+    background-color: rgb(205, 231, 231);
+    
+   
+ }
+ .lady-words{
+    padding: 10px;
+    margin: 30px;    
+ }
+ .ladys{
+    display: inline-flex; 
+    background-color: rgb(227, 253, 253);
+    margin: 60px;
+ }
+ .button2{
+border-radius: 10px;
+ }
+ .patients p{
+margin-left:60%;
+margin-bottom: -75px;
+ }
+ .patients h2{
+     margin-bottom: 70px;
+     margin-left: 3%;
+     padding-bottom: 70px;
+ }
+ .Quotation1{
+     background-color: rgb(244, 247, 250);
+     margin-left: 40px;
+     padding-right: 100px;
+ }
+ .quotation2{
+     background-color: rgb(242, 248, 248);
+     margin-left: 80px;
+     padding-right: 90px;
+ }
+ .all-quotations{
+     display: inline-flex;
+     margin: 20px;
+
+ }
+ 
+ .all-quotations i2{
+color: rgb(176, 223, 218);
+ }
+ .all-quotations i{
+     color:rgb(225, 212, 93)
+     
+ }
+ 
+.photos{
+    display: inline-flex;
+    margin: 10px;
+    
+}
+.photos h5{
+    margin-left: 40%;
+}
+.photos p{
+    margin-left: 40%; 
+}
+.photo1{
+background-color:rgb(226, 242, 242) ;
+margin-left: 70px;
+}
+.photo2{
+    background-color:rgb(221, 236, 234) ;
+    margin: 10px;
+
+}
+.photo3{
+    background-color:rgb(238, 230, 221);
+}
+.blog h2{
+    text-align: center;
+    font-family: sans-serif;
+}
+.blog2 button{
+    margin-left: 70%;
+    background-color: rgb(96, 153, 156);
+    border-radius: 8%;
+   margin-top: -90%;
+   padding-top: -30px;
+   padding-top: 40px;
+ 
+   
+
+    }
+.blog{
+    background-color:rgb(208, 234, 234); 
+    padding: 90px;
+    width: 600px;
+    height: 150px;
+    margin-bottom: 200px;
+    margin-left: 19%;
+    border-radius: 10px;
+    margin-top: 70px;
+   
+
+}
+.blog2 input{
+    padding: 15px;
+    color: white;
+    background-color: azure;
+    border-radius: 50px;
+    border: none;
+    padding-left: 90px;
+    padding-bottom: 20px;
+
+   
+}
+.last1{
+    padding: 30px;
+    margin: 70px;  
+}
+.last2{
+    padding: 30px;
+    margin: 70px;  
+}
+.last3{
+    padding: 30px;
+    margin: 70px;   
+}
+.last4{
+    padding: 30px;
+    margin: 70px; 
+}
+.all-last{
+display: inline-flex;
+background-color: rgb(230, 242, 242);
+margin: -20px;
+
+}
+.all-last h5{
+margin: 5px;
+}
+
+ 
